@@ -137,3 +137,13 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 129.159.83.88,8443,443,TRUE,IAD,North America,Ashburn,245,3.5
 168.138.70.29,443,443,TRUE,YYZ,North America,Toronto,265,2.96
 140.238.158.238,8080,443,TRUE,YYZ,North America,Toronto,242,2.33
+20.245.7.79,443,TRUE,SJC,North America,San Jose,217 ms,7035
+20.168.54.251,443,TRUE,LAX,North America,Los Angeles,226 ms,5746
+20.185.28.234,44056,TRUE,IAD,North America,Ashburn,233 ms,4750
+20.220.204.217,443,TRUE,YYZ,North America,Toronto,232 ms,4004
+4.255.56.137,443,TRUE,IAD,North America,Ashburn,272 ms,3783
+20.151.142.151,8443,TRUE,YYZ,North America,Toronto,293 ms,2678
+4.255.56.138,443,TRUE,IAD,North America,Ashburn,284 ms,2511
+20.62.202.159,443,TRUE,IAD,North America,Ashburn,305 ms,2390
+172.190.150.25,8443,TRUE,IAD,North America,Ashburn,277 ms,2306
+138.91.123.230,34237,TRUE,IAD,North America,Ashburn,268 ms,1495
