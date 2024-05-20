@@ -100,9 +100,9 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 151.145.36.72,443,443,TRUE,YYZ,North America,Toronto,258,3.24
 129.159.83.88,8443,443,TRUE,IAD,North America,Ashburn,235,3.18
 168.138.70.29,443,443,TRUE,YYZ,North America,Toronto,262,2.89
-4.255.56.138,443,443,TRUE,IAD,North America,Ashburn,282 ms,4422 kB/s
-20.185.28.234,44056,44056,TRUE,IAD,North America,Ashburn,241 ms,4310 kB/s
-20.220.204.217,443,443,TRUE,YYZ,North America,Toronto,237 ms,3471 kB/s
-20.62.202.159,443,443,TRUE,IAD,North America,Ashburn,288 ms,3333 kB/s
-4.255.56.137,443,443,TRUE,IAD,North America,Ashburn,271 ms,2985 kB/s
-20.151.142.151,8443,443,TRUE,YYZ,North America,Toronto,269 ms,2260 kB/s
+4.255.56.138,443,443,TRUE,IAD,North America,Ashburn,282 ms,4422
+20.185.28.234,44056,44056,TRUE,IAD,North America,Ashburn,241 ms,4310
+20.220.204.217,443,443,TRUE,YYZ,North America,Toronto,237 ms,3471
+20.62.202.159,443,443,TRUE,IAD,North America,Ashburn,288 ms,3333
+4.255.56.137,443,443,TRUE,IAD,North America,Ashburn,271 ms,2985
+20.151.142.151,8443,443,TRUE,YYZ,North America,Toronto,269 ms,2260
